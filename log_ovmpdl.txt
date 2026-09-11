@@ -1,5 +1,0 @@
-[2026-09-07 14:21:27] Entry #ovmpdl
-Status: active
-Health: healthy
-Token: vabiqnd6nq88s0ncyd1f
-Score: 88
