@@ -994,3 +994,20 @@ send-pack: unexpected disconnect while reading sideband packet
 fatal: the remote end hung up unexpectedly
 [2026-10-16 12:48:37] Commit 3/4 done
 [2026-10-16 12:51:33] Commit 4/4 done
+error: RPC failed; curl 16 Error in the HTTP2 framing layer
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+[2026-10-16 12:51:35] Done
+[2026-10-16 13:38:00] Script triggered
+[2026-10-16 13:38:00] Sleeping 1523s before start
+[2026-10-16 14:03:23] Making 4 commits
+[2026-10-16 14:03:33] Commit 1/4 done
+[2026-10-16 14:05:00] Commit 2/4 done
+error: RPC failed; curl 18 Transferred a partial file
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+[2026-10-16 14:12:12] Commit 3/4 done
+error: RPC failed; curl 16 Error in the HTTP2 framing layer
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+[2026-10-16 14:15:06] Commit 4/4 done
