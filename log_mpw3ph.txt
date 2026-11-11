@@ -1,5 +1,0 @@
-[2026-11-04 10:08:17] Entry #mpw3ph
-Status: pending
-Health: healthy
-Token: 672ijbhlmv38l9w4fz7z
-Score: 6
