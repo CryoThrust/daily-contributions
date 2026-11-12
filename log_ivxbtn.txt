@@ -1,5 +1,0 @@
-[2026-11-05 09:50:47] Entry #ivxbtn
-Status: running
-Health: stable
-Token: q9fqxc6m4pps6eeidn51
-Score: 66
