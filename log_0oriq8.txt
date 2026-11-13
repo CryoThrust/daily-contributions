@@ -1,0 +1,5 @@
+[2026-11-13 16:14:30] Entry #0oriq8
+Status: queued
+Health: good
+Token: za67mwuy01687ng85p1u
+Score: 77
